@@ -194,8 +194,3 @@ No seed users are created — register a new account from the **Sign Up** page (
 
 ---
 
-## Screenshots
-
-See `/screenshots` folder for UI screenshots of: Login, Video Portal grid, Video Player with bookmarks panel, and the screenshot-protection warning overlay.
-
-(Screen recording / live deployment link: add here before submission if required by your instructor.)
